@@ -162,7 +162,6 @@ A full-stack application designed to upload, store, search, and manage candidate
 `Java` `Spring Boot` `REST API` `PostgreSQL` `JPA` `Hibernate` `HTML` `CSS` 
 
 **PlateForms**
-
 `Idea` `Supbase Database` `Cloudinary`
 ---
 
@@ -297,7 +296,7 @@ current_focus:
 <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/soham-chovaLya24">
+<a href="https://www.linkedin.com/in/soham-chovatiya24">
 <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
