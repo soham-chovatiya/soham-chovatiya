@@ -159,8 +159,11 @@ A full-stack application designed to upload, store, search, and manage candidate
 
 **Tech Stack**
 
-`Java` `Spring Boot` `REST API` `PostgreSQL` `JPA` `Hibernate` `HTML` `CSS` `JavaScript`
+`Java` `Spring Boot` `REST API` `PostgreSQL` `JPA` `Hibernate` `HTML` `CSS` 
 
+**PlateForms**
+
+`Idea` `Supbase Database` `Cloudinary`
 ---
 
 
