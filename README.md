@@ -95,12 +95,11 @@ I enjoy understanding how applications work behind the scenes — from designing
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-* PostgreSQL
+
 * MySQL
-* SQL
 
 ### Android Development
 
@@ -116,7 +115,7 @@ I enjoy understanding how applications work behind the scenes — from designing
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker" />
 </p>
 
 * Git & GitHub
@@ -208,7 +207,7 @@ Docker & Deployment
 
 ---
 
-🟣 Microsoft Skill-Based Training — Cloud & AI
+## 🟣 Microsoft Skill-Based Training — Cloud & AI
 
 Microsoft Skill-Based Training Program · CloudThat
 July 2026 · 15 Days
@@ -249,15 +248,7 @@ Completed a 15-day Microsoft Skill-Based Training program focused on Microsoft A
 
 ---
 
-## 🟣 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=placeholder-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B388FF&icon_color=8A2BE2&text_color=E0C3FC" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=placeholder-username&theme=radical&hide_border=true&background=0D0221&ring=8A2BE2&fire=B388FF&currStreakLabel=E0C3FC" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=placeholder-username&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B388FF&text_color=E0C3FC" width="48%"/>
 
 ---
 
