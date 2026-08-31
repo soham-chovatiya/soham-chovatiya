@@ -8,7 +8,7 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square\&logo=google-scholar\&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Engineering-6A0DAD?style=flat-square\&logo=google-scholar\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Backend-4B0082?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-6A0DAD?style=flat-square\&logo=google-maps\&logoColor=white)
 
@@ -54,7 +54,7 @@ public class SohamChovatiya {
 }
 ```
 
-I'm a **Computer Science student focused on Java Backend Development and Android Development**.
+I'm a **Computer Engineering student focused on Java Backend Development and Android Development**.
 
 Currently, I'm strengthening my Java fundamentals, **Data Structures & Algorithms**, and learning **Spring Boot** to build real-world backend applications.
 
