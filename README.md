@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1E0033&height=250&section=header&text=Soham%20Chovatiya&fontSize=60&fontColor=E0C3FC&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Android%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Learner;REST+API+Developer;Android+Developer;DSA+%7C+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Learner;REST+API+Developer;Android+Developer;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -75,7 +75,7 @@ I enjoy understanding how applications work behind the scenes — from designing
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,html,css" />
 </p>
 
 ### Backend
