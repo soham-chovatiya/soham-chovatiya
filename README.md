@@ -14,9 +14,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/placeholder-username)
-[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:placeholder@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E0033?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/placeholder-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge\&logo=linkedin\&logoColor=white)](linkedin.com/in/soham-chovaLya24)
+[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge\&logo=gmail\&logoColor=white)](sohamchovatiya24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1E0033?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/soham-chovatiya)
 
 <br/>
 
