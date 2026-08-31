@@ -75,7 +75,7 @@ I enjoy understanding how applications work behind the scenes — from designing
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css" />
 </p>
 
 ### Backend
